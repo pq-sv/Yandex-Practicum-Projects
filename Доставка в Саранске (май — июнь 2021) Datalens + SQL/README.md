@@ -1,5 +1,5 @@
 # Проект «Метрики для доставки из ресторанов в Саранске»
-https://datalens.yandex/k186g911hdk86
+https://datalens.yandex/ok9vt2exdudka
 
 ## Описание проекта
 
@@ -7,7 +7,7 @@ https://datalens.yandex/k186g911hdk86
 
 **Используемые технологии:**
 
-<img src="https://user-images.githubusercontent.com/81221395/146988241-e9b117b4-745a-4d71-bc41-752e6f04f2b2.png" width="80"> <img src="https://camo.githubusercontent.com/8ddd7494a3ede9c280431b4d3ab2df479446f829d23ae192d3efa63400c0d85f/68747470733a2f2f617661746172732e6d64732e79616e6465782e6e65742f693f69643d35363436613838626337356635333037323665663964313362313935336138655f6c2d31303431343538322d696d616765732d7468756d6273266e3d3133" width="70">
+<img src="https://user-images.githubusercontent.com/81221395/146988241-e9b117b4-745a-4d71-bc41-752e6f04f2b2.png" width="70"> <img src="https://camo.githubusercontent.com/8ddd7494a3ede9c280431b4d3ab2df479446f829d23ae192d3efa63400c0d85f/68747470733a2f2f617661746172732e6d64732e79616e6465782e6e65742f693f69643d35363436613838626337356635333037323665663964313362313935336138655f6c2d31303431343538322d696d616765732d7468756d6273266e3d3133" width="60">
 
 В процессе работы были рассчитаны и визуализированы такие показателей, как:
 
